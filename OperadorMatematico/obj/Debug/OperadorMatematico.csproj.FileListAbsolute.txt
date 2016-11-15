@@ -1,0 +1,5 @@
+F:\VisualStudio\C#\01\OperadorMatematico\OperadorMatematico\bin\Debug\OperadorMatematico.exe.config
+F:\VisualStudio\C#\01\OperadorMatematico\OperadorMatematico\bin\Debug\OperadorMatematico.exe
+F:\VisualStudio\C#\01\OperadorMatematico\OperadorMatematico\bin\Debug\OperadorMatematico.pdb
+F:\VisualStudio\C#\01\OperadorMatematico\OperadorMatematico\obj\Debug\OperadorMatematico.exe
+F:\VisualStudio\C#\01\OperadorMatematico\OperadorMatematico\obj\Debug\OperadorMatematico.pdb
